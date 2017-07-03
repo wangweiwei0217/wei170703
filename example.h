@@ -27,7 +27,7 @@ public:
 // й╣ож
 
 	DECLARE_MESSAGE_MAP()
-	int a ;
+	
 };
 
 extern CexampleApp theApp;
